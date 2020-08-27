@@ -26,7 +26,7 @@ fullComp = [];
 
 // Add your functions below:
 
-var goodNum = [5, 5, 3, 5, 7, 6, 6, 7, 6, 8, 7, 5, 1, 4, 3, 9];
+var goodNum = [5, 5, 3, 5, 7, 6, 6, 7, 6, 8, 7, 5, 1, 4, 3, 9]; // same as valid2
 
 function validatedCred(input) {
   for (i = 0; i < 16; i++) {
